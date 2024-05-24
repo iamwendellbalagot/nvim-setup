@@ -12,7 +12,7 @@ return {
 			},
 		},
 	},
-
+	{ "akinsho/toggleterm.nvim", version = "*", config = true },
 	{
 		"echasnovski/mini.hipatterns",
 		event = "BufReadPre",
